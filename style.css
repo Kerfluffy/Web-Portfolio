@@ -1,0 +1,140 @@
+body {
+  font-size: 1.1em;
+  font-weight: normal;
+  font-family: Helvetica, Sans-serif;
+  color: #707c80; /* black */
+  text-align: left;
+  background-color: #061848;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 1em;
+  margin: 0 auto;
+  width: 80%;
+  mid-width: 720px;
+  border: thick solid black;
+}
+h1 {
+  font-size:1.9em;
+  font-weight: bold;
+  color: #2d89ef; /* blue */
+  text-align: center;
+  padding: ;
+  margin: ;
+  width ;
+}
+h2 {
+  font-size:1.5em;
+  font-weight: bold;
+  color: #42f4a4; /* black */
+  text-align: left;
+  padding: ;
+  margin: ;
+  width ;
+}
+p {
+  font-size: .85em;
+  font-weight: lighter;
+  color: white; /* grey gold */
+  padding: ;
+  margin: ;
+  width ;
+}
+.border1 {
+  width: 500px;
+  height: 160px;
+  padding: 30px;
+  border: 2px solid darkorange;
+  border-radius: 8px;
+  background-color: darkgrey;
+  color: white;
+}
+.border2 {
+  width: 500px;
+  height: 160px;
+  padding: 30px;
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color: #b5651d;
+  color: #000000;
+}
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-size: 1.1em;
+  color: ;
+  width ;
+}
+.navigation_li {
+  float: left;
+}
+li {
+  color ;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color:#111;
+}
+div#skipnav {
+  top: 5px;
+  left: 12.5%;
+  position: relative;
+}
+div#omnibox {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+}
+div.info {
+  width: 40%;
+  font-size: 1.2em;
+  float: left;
+}
+nav {
+  clear: left;
+}
+#classexample {
+
+}
+#classexample2 {
+
+}
+#important {
+
+}
+
+
+/* navigation menu styles */
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  float: left;
+  margin-right: 0.5em;
+}
+nav ul li a {
+  padding: 0.2em 1em;
+  text-decoration: none; /* no underline*/
+  background-color: #EBF5FF; /*pale bluish white */
+  color: #4312AE; /* dark blue */
+  border: 2px solid black;
+  border-top-left-radius: 1em 1em; /*rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */
+}
+nav ul li a:hover, nav ul li a:focus {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+}
+main {
+  clear:left
+}
